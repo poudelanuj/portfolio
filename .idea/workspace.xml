@@ -11,8 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../Downloaded Themes/agenda/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Downloaded Themes/stunning_sign_up_login_form-web_Free10-02-2018_1218592179/web/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/user-images/bishal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/json/bishal.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/json/renderJson.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tensorflow/.idea/other.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tensorflow/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tensorflow/test.py" afterDir="false" />
@@ -23,7 +21,11 @@
       <change afterPath="$PROJECT_DIR$/../ar-card-react/src/redux-stuffs/store/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/json/bishal.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/json/bishal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/json/renderJson.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/json/renderJson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -61,20 +63,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="57" />
+            <state relative-caret-position="314">
+              <caret line="191" selection-start-line="191" selection-end-line="191" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="1432" column="9" selection-start-line="1432" selection-start-column="9" selection-end-line="1432" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/json/bishal.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="435" selection-start-line="8" selection-start-column="435" selection-end-line="8" selection-end-column="435" />
+            <state relative-caret-position="189">
+              <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -82,8 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/json/renderJson.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="213">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="1964" column="14" lean-forward="true" selection-start-line="1964" selection-start-column="14" selection-end-line="1964" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -99,7 +119,9 @@
       <find>bishal</find>
       <find>&lt;img</find>
       <find>100%</find>
+      <find>animate-box</find>
       <find>about us</find>
+      <find>.css</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,9 +130,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/json/renderJson.js" />
         <option value="$PROJECT_DIR$/js/json/bishal.json" />
+        <option value="$PROJECT_DIR$/js/json/renderJson.js" />
+        <option value="$PROJECT_DIR$/sass/style.scss" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -209,19 +233,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554135952919</updated>
-      <workItem from="1554135954148" duration="3691000" />
+      <workItem from="1554135954148" duration="4407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3691000" />
+    <option name="totallyTimeSpent" value="4407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="698" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -260,24 +284,38 @@
     <entry file="file://$PROJECT_DIR$/images/user-images/bishal.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/json/bishal.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/json/renderJson.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="213">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1964" column="14" lean-forward="true" selection-start-line="1964" selection-start-column="14" selection-end-line="1964" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="1432" column="9" selection-start-line="1432" selection-start-column="9" selection-end-line="1432" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/json/bishal.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="435" selection-start-line="8" selection-start-column="435" selection-end-line="8" selection-end-column="435" />
+        <state relative-caret-position="314">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
         </state>
       </provider>
     </entry>

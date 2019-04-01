@@ -21,4 +21,8 @@ $.getJSON("js/json/bishal.json", function (data) {
     $("#about-me-1").html(data.aboutMe1);
     $("#about-me-2").html(data.aboutMe2);
 
+    for(let i=0; i<data.skills.length; i++){
+        $("#skill-"+(i+1)).text(data.skills[i])
+    }
+
 });
