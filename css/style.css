@@ -373,12 +373,12 @@ body.offcanvas {
   padding: 0; }
 
 .colorlib-experience,
-.colorlib-skills,
-.colorlib-education,
+/*.colorlib-skills,*/
+/*.colorlib-education,*/
 .colorlib-blog,
 .colorlib-work,
 .colorlib-about,
-.colorlib-services,
+/*.colorlib-services,*/
 .colorlib-contact {
   padding-top: 4em;
   padding-bottom: 9em;
@@ -396,6 +396,11 @@ body.offcanvas {
     .colorlib-contact {
       padding-top: 5em;
       padding-bottom: 8em; } }
+
+.colorlib-skills, .colorlib-education, .colorlib-services{
+  padding-bottom: 3em;
+}
+
 
 .author-img {
   background-size: cover;
@@ -1432,6 +1437,11 @@ body.offcanvas {
 /*self css*/
 .services {
   min-height: 167px;
+}
+
+
+.js .animate-box {
+  opacity: 1 !important;
 }
 
 /* end self css*/
