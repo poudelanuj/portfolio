@@ -7,7 +7,7 @@
   "country": "Nepal",
   "imageUrl": "anuj.jpg",
   "aboutMe1": "<p><span style=\"font-weight: 400;\">I recently finished my bachelors in Computer Engineering from Pulchowk Engineering Campus, located at Pulchowk Lalitpur. I had a passion for computers from a very young age. And my only aim in life is to improve Nepal through IT sector.</span></p>",
-  "aboutMe2": "<p><span style=\"font-weight: 400;\">Currently I would like to think of myself as a </span><span style=\"color: #808000;\"><strong>Professional Frontend Developer </strong></span><span style=\"font-weight: 400;\">as I have gained vast experience in frontend development by working in a number of companies and projects over the past 3-4 years. But I am comfortable handling the backend side of things as well.</span></p>",
+  "aboutMe2": "<p><span style=\"font-weight: 400;\">Currently I would like to think of myself as a </span><span style=\"color: #808000;\"><strong>Professional Blockchain and DevOps Developer </strong></span><span style=\"font-weight: 400;\">as I have gained vast experience in deployment by working in a number of companies and projects over the past 3-4 years. But I am comfortable handling the backend, core blockchain and security of the project well.</span></p>",
   "basicSkills": [
     "Blockchain Developer",
     "DevOps Developer",
@@ -41,8 +41,12 @@
       "percentage": "50"
     },
     {
-      "name": "AWS",
+      "name": "Amazon Web Services",
       "percentage":"70"
+    },
+    {
+      "name":"Cryptography",
+      "percentage":"60"
     }
   ],
   "education": [
