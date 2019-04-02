@@ -31,6 +31,8 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
     $("#main-job-title, #job-title-carousel").text(data.mainJobTitle);
     $("#country-name").text(data.country);
 
+    $("#cv-button, #portfolio-button").attr("href", data.cvLink);
+
     $("#about-me-1").html(data.aboutMe1);
     $("#about-me-2").html(data.aboutMe2);
     $("#no-of-projects").text(data.noOfProjects);
