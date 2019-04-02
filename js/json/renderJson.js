@@ -83,6 +83,12 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
 
     let finalWorkExperienceHtml = "";
     for(let i=0; i<data.workExperience.length;i++){
+
+        let presentString = data.workExperience[i].endMonth.substring(0, 3) +", "+ data.workExperience[i].endYear;
+        if(data.workExperience[i].endYear.toLowerCase() === "present"){
+            presentString = "Present"
+        }
+
         finalWorkExperienceHtml += "<article class=\"timeline-entry animate-box\" data-animate-effect=\"fadeInLeft\">\n" +
             "                                    <div class=\"timeline-entry-inner\">\n" +
             "\n" +
@@ -94,7 +100,7 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
             "                                            <h2><a href=\""+ data.workExperience[i].instituteWebsite +
             "\" target='_blank'>" + data.workExperience[i].institution + "</a>\n" +
             "                                                <span>" + data.workExperience[i].startMonth.substring(0, 3) + ", " +
-            data.workExperience[i].startYear + " - " +  data.workExperience[i].endMonth.substring(0, 3) +", "+ data.workExperience[i].endYear + "</span>\n" +
+            data.workExperience[i].startYear + " - " +  presentString + "</span>\n" +
             "                                            </h2>\n" +
             "                                            <p><strong>" + data.workExperience[i].title + "</strong></p>\n" +
                                                             data.workExperience[i].details
