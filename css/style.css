@@ -372,16 +372,17 @@ body.offcanvas {
   margin: 0;
   padding: 0; }
 
-.colorlib-experience,
+/*.colorlib-experience,*/
 /*.colorlib-skills,*/
 /*.colorlib-education,*/
 .colorlib-blog,
 .colorlib-work,
 .colorlib-about,
 /*.colorlib-services,*/
-.colorlib-contact {
+.colorlib-contact
+{
   padding-top: 4em;
-  padding-bottom: 9em;
+  /*padding-bottom: 9em;*/
   clear: both;
   width: 100%;
   display: block; }
@@ -1442,6 +1443,10 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 1 !important;
+}
+
+#colorlib-aside {
+  overflow: hidden;
 }
 
 /* end self css*/

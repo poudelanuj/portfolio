@@ -35,7 +35,7 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
 
     $("#about-me-1").html(data.aboutMe1);
     $("#about-me-2").html(data.aboutMe2);
-    $("#no-of-projects").text(data.noOfProjects);
+    // $("#no-of-projects").text(data.noOfProjects);
 
     for(let i=0; i<data.basicSkills.length; i++){
         $("#skill-"+(i+1)).text(data.basicSkills[i])
@@ -111,6 +111,7 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
     $("#main-email").attr("href", "mailto:" + data.email);
     $("#main-address").html(data.address);
     $("#main-phone").html(data.phone);
+    $("#main-phone").attr("href", "tel://" + data.phone);
 
 
 
@@ -132,10 +133,10 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
 
     $('#contactForm').submit(function (e) {
         e.preventDefault();
-        var name = document.getElementById('name');
-        var email = document.getElementById('email');
-        var subject = document.getElementById('subject');
-        var message = document.getElementById('message');
+        let name = document.getElementById('name');
+        let email = document.getElementById('email');
+        let subject = document.getElementById('subject');
+        let message = document.getElementById('message');
 
         if (!name.value) {
             $("#name").css("border-bottom", "2px solid #ff0000")
@@ -183,7 +184,7 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
     });
 
     function validateEmail(email) {
-        var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        let re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
         return re.test(email);
     }
 
