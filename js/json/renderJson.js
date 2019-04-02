@@ -93,7 +93,7 @@ $.getJSON("js/json/"+ jsonFileName +".json", function (data) {
             "                                    <div class=\"timeline-entry-inner\">\n" +
             "\n" +
             "                                        <div class=\"timeline-icon color-"+ (i+1) +"\">\n" +
-            "                                            <i class=\"icon-pen2\"></i>\n" +
+            "                                            <i class=\"icon-business-card\"></i>\n" +
             "                                        </div>\n" +
             "\n" +
             "                                        <div class=\"timeline-label\">\n" +
