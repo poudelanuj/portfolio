@@ -7,6 +7,10 @@ if(pathname.toLocaleLowerCase().includes("bishal")){
     jsonFileName = "anuj";
 } else if(pathname.toLocaleLowerCase().includes("prasanga")){
     jsonFileName = "prasanga";
+} else if(pathname.toLocaleLowerCase().includes("anup")){
+    jsonFileName = "anup";
+}  else if(pathname.toLocaleLowerCase().includes("sagar")){
+    jsonFileName = "sagar";
 } else {
     jsonFileName = "prasanga";
 }
