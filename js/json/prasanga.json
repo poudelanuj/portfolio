@@ -3,14 +3,14 @@
   "middleName": "",
   "lastName": "Neupane",
   "cvLink": "https://drive.google.com/file/d/0B1s6YkFbFru1TjJVN1c0OWtubzRxRUNqcVAwZ2JlR2xPeXlF",
-  "mainJobTitle": "AI and Computer Vision Engineer",
+  "mainJobTitle": "Computer Vision and Machine Learning Engineer",
   "country": "Nepal",
   "imageUrl": "prasanga.jpg",
-  "aboutMe1": "<p><span style=\"font-weight: 400;\">I recently finished my bachelors in Computer Engineering from Pulchowk Engineering Campus. I had a passion for computers from a very young age. And my only aim in life is to improve Nepal through IT sector.</span></p>",
-  "aboutMe2": "<p><span style=\"font-weight: 400;\">Currently I would like to think of myself as a </span><span style=\"color: #808000;\"><strong>Professional AI/ML Developer </strong></span><span style=\"font-weight: 400;\">as I have gained vast experience in AI/ML development by working in a number of companies and projects over the past 3-4 years.</span></p>",
+  "aboutMe1": "<p><span style=\"font-weight: 400;\">I am Computer Engineering graduate from Pulchowk Engineering Campus, Lalitpur, Nepal. I am passionate about the Human Computer Interaction and the Artificial Intelligence stuffs.</span></p>",
+  "aboutMe2": "<p><span style=\"font-weight: 400;\">Currently I would like to think of myself as a </span><span style=\"color: #808000;\"><strong>Professional AI/ML Engineer </strong></span><span style=\"font-weight: 400;\">as I have gained vast experience in AI/ML development by working in a number of companies and projects over the past 3-4 years.</span></p>",
   "basicSkills": [
     "Computer Vision Engineer",
-    "AI/ML Developer",
+    "AI/ML Engineer",
     "Frontend Developer",
     "Android Developer"
   ],
@@ -21,16 +21,16 @@
       "percentage": "80"
     },
     {
-      "name": "Python",
+      "name": "Natural Language Processing",
       "percentage": "80"
     },
     {
-      "name": " NLP ",
+      "name": "Machine Learning/Deep Learning",
       "percentage": "70"
     },
     {
-      "name": "AI/DeepLearning",
-      "percentage": "70"
+      "name": "Python",
+      "percentage": "80"
     },
     {
       "name": "C # ",
@@ -38,7 +38,7 @@
     },
       {
     "name": "Android ",
-    "percentage": "55"
+    "percentage": "60"
     }
   ],
   "education": [
@@ -54,14 +54,14 @@
       "institution": "Kathmandu Model College, Maitighar",
       "startYear": "2010",
       "endYear": "2012",
-      "details": "<p>One of the most recognized education institutions in the world, KMC has been providing quality education in Nepal since <strong>1988 A.D</strong>.</p>\n<p><em><span style=\"font-weight: 400;\">Percentage Summary:</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Grade 11: 84.2%</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Grade 12: 80.2% </span></em></p>\n<p><em><span style=\"font-weight: 400;\">Aggregate Percent: 82.2%</span></em></p>"
+      "details": "<p>One of the most recognized education institutions in the Nepal, KMC has been providing quality Higher education in Nepal.</p>\n<p><em><span style=\"font-weight: 400;\">Percentage Summary:</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Grade 11: 84.2%</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Grade 12: 80.2% </span></em></p>\n<p><em><span style=\"font-weight: 400;\">Aggregate Percent: 82.2%</span></em></p>"
     },
     {
       "title": "School",
       "institution": "Shree Saraswati Niketan Boarding School",
-      "startYear": "1997",
+      "startYear": "2000",
       "endYear": "2010",
-      "details": "<p>With major emphasis on moral education and core values, Shree Saraswati Niketan Boarding School is one of the most unique and authentic educational institutes in the country.</p>\n<p><em><span style=\"font-weight: 400;\">Percentage Summary:</span></em></p>\n<p><em><span style=\"font-weight: 400;\">SLC: 84.5%</span></em></p>"
+      "details": "<p>With major emphasis on moral education and core values, Shree Saraswati Niketan Boarding School is one of the most unique educational institute in the country.</p>\n<p><em><span style=\"font-weight: 400;\">Percentage Summary:</span></em></p>\n<p><em><span style=\"font-weight: 400;\">SLC: 84.5%</span></em></p>"
     }
   ],
   "workExperience": [
@@ -76,14 +76,14 @@
       "details": "<p>DalloTech is an IT based company established in 2018 by a group of enthusiastic engineers who believe in the marvels of technological innovations to uplift the development of society.&nbsp;</p>\n<p>Website:&nbsp;<a target=\"_blank\", href=\"https://dallotech.com/\">https://dallotech.com/</a></p>"
     },
     {
-      "title": "AI/ML Developer",
+      "title": "Computer Vision & AI Engineer",
       "institution": "Alternative Technology",
       "instituteWebsite": "http://alternative.com.np",
       "startYear": "2018",
       "startMonth": "April",
       "endYear": "Present",
       "endMonth": "",
-      "details": "<p>Alternative Technology is a Nepal based technology company which bridges the gap between the Handmade RUG company and the Technological products.</p>\n<p>Website:&nbsp;<a href=\"http://alternative.com.np/\" target=\"_blank\">http://alternative.com.np/</a></p>"
+      "details": "<p>Alternative Technology is a Nepal based IT company which bridges the gap between the Handmade rug industry and the technological products.</p>\n<p>Website:&nbsp;<a href=\"http://alternative.com.np/\" target=\"_blank\">http://alternative.com.np/</a></p>"
     },
     {
       "title": "Editor",
@@ -107,7 +107,7 @@
     }
   ],
   "email": "071bct525prasanga@pcampus.edu.np",
-  "phone": "+9779849581977",
+  "phone": "+9779818656210",
   "address": "Sanepa, Lalitpur, Nepal",
   "dummyData": "dummy"
 }
