@@ -5,8 +5,10 @@ if(pathname.toLocaleLowerCase().includes("bishal")){
     jsonFileName = "bishal";
 } else if(pathname.toLocaleLowerCase().includes("anuj")){
     jsonFileName = "anuj";
+} else if(pathname.toLocaleLowerCase().includes("prasanga")){
+    jsonFileName = "prasanga";
 } else {
-    jsonFileName = "anuj";
+    jsonFileName = "prasanga";
 }
 
 $.getJSON("js/json/"+ jsonFileName +".json", function (data) {

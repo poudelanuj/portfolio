@@ -1,0 +1,113 @@
+{
+  "firstName": "Prasanga",
+  "middleName": "",
+  "lastName": "Neupane",
+  "cvLink": "https://drive.google.com/open?id=1uh6THm65G9AwBhINF8SXJENwmTJo2rpq",
+  "mainJobTitle": "Full Stack Web and Mobile Developer",
+  "country": "Nepal",
+  "imageUrl": "bishal.jpg",
+  "aboutMe1": "<p><span style=\"font-weight: 400;\">I recently finished my bachelors in Computer Engineering from Pulchowk Engineering Campus, located at Pulchowk Lalitpur. I had a passion for computers from a very young age. And my only aim in life is to improve Nepal through IT sector.</span></p>",
+  "aboutMe2": "<p><span style=\"font-weight: 400;\">Currently I would like to think of myself as a </span><span style=\"color: #808000;\"><strong>Professional Frontend Developer </strong></span><span style=\"font-weight: 400;\">as I have gained vast experience in frontend development by working in a number of companies and projects over the past 3-4 years. But I am comfortable handling the backend side of things as well.</span></p>",
+  "basicSkills": [
+    "Designer",
+    "Web Developer",
+    "Backend Developer",
+    "Mobile Developer"
+  ],
+  "noOfProjects": 8,
+  "skills": [
+    {
+      "name": "ReactJS with Redux",
+      "percentage": "80"
+    },
+    {
+      "name": "HTML, CSS, Javascript, jQuery",
+      "percentage": "80"
+    },
+    {
+      "name": "NodeJS",
+      "percentage": "75"
+    },
+    {
+      "name": "Django",
+      "percentage": "70"
+    },
+    {
+      "name": "React Native",
+      "percentage": "60"
+    },
+    {
+      "name": "Laravel",
+      "percentage": "55"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelors in Computer Engineering",
+      "institution": "Pulchowk Engineering Campus",
+      "startYear": "2014",
+      "endYear": "2018",
+      "details": "<p>Established in&nbsp;<strong>1972 A.D. (2029 B.S)</strong>, it is one of the best and the most reputed engineering institution in Nepal.</p>\n<p><em><span style=\"font-weight: 400;\">Minor Project: Shoppify, an e-commerce website for peer to peer clothes renting with the application of Artificial intelligence in searching for similar clothes</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Major Project: Network Intrusion Detection system using machine learning</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Aggregate Percent: 71.62%</span></em></p>"
+    },
+    {
+      "title": "High School",
+      "institution": "St. Xavier's College, Maitighar",
+      "startYear": "2010",
+      "endYear": "2012",
+      "details": "<p>One of the most recognized education institutions in the world, St. Xavier's has been providing quality education in Nepal since <strong>1988 A.D</strong>.</p>\n<p><em><span style=\"font-weight: 400;\">Percentage Summary:</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Grade 11: 80.2%</span></em></p>\n<p><em><span style=\"font-weight: 400;\">Grade 12: 80.4% </span></em></p>\n<p><em><span style=\"font-weight: 400;\">Aggregate Percent: 80.3%</span></em></p>"
+    },
+    {
+      "title": "School",
+      "institution": "Hindu Vidyapeeth Nepal",
+      "startYear": "1997",
+      "endYear": "2010",
+      "details": "<p>With major emphasis on moral education and core values, Hindu Vidyapeeth Nepal is one of the most unique and authentic educational institutes in the country.</p>\n<p><em><span style=\"font-weight: 400;\">Percentage Summary:</span></em></p>\n<p><em><span style=\"font-weight: 400;\">SLC: 87.5%</span></em></p>"
+    }
+  ],
+  "workExperience": [
+    {
+      "title": "Sr. Frontend Developer",
+      "institution": "Dallo Tech Pvt. Ltd.",
+      "instituteWebsite": "https://dallotech.com/",
+      "startYear": "2018",
+      "startMonth": "November",
+      "endYear": "Present",
+      "endMonth": "",
+      "details": "<p>DalloTech is an IT based company established in 2018 by a group of enthusiastic engineers who believe in the marvels of technological innovations to uplift the development of society.&nbsp;</p>\n<p>Website:&nbsp;<a target=\"_blank\", href=\"https://dallotech.com/\">https://dallotech.com/</a></p>"
+    },
+    {
+      "title": "Software Developer (ReactJS and NodeJS)",
+      "institution": "InfoTMT Pvt. Ltd.",
+      "instituteWebsite": "http://infotmt.com/",
+      "startYear": "2018",
+      "startMonth": "April",
+      "endYear": "2019",
+      "endMonth": "April",
+      "details": "<p>InfoTMT is a US based technology company with an offshore development center providing advantage of working with highly experienced US solutions architects and agilists while reaping the cost benefits of an offshore software development team.</p>\n<p>Website:&nbsp;<a href=\"http://infotmt.com/\" target=\"_blank\">http://infotmt.com/</a></p>"
+    },
+    {
+      "title": "Django Lead Developer",
+      "institution": "FSU",
+      "instituteWebsite": "https://www.facebook.com/pg/Free-Students-Union-Pulchowk-Campus-2073-1384226974980953",
+      "startYear": "2017",
+      "startMonth": "November",
+      "endYear": "2018",
+      "endMonth": "March",
+      "details": "<p>FSU is a&nbsp;student welfare organization of Pulchowk Campus.</p>"
+    },
+    {
+      "title": "Laravel and Django Frontend and Backend Developer",
+      "institution": "Univhub",
+      "instituteWebsite": "https://www.facebook.com/univhub/",
+      "startYear": "2016",
+      "startMonth": "September",
+      "endYear": "2016",
+      "endMonth": "November",
+      "details": "<p>Univhub is an online web application for abroad studies which allows you to search and apply from a list of over <strong>7000 universities</strong> in USA and Australia.</p>"
+    }
+  ],
+  "email": "bishalbaaniya@gmail.com",
+  "phone": "+9779849578042",
+  "address": "Imadol - 05, Lalitpur, Nepal",
+  "dummyData": "dummy"
+}
